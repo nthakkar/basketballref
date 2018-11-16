@@ -1,4 +1,4 @@
-""" player_compare.py
+""" compare_players.py
 
 Compare game-by-game statistics for players using the basketballref.player module. """
 ## Add the basketball reference repository to your path
